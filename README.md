@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👩‍💻 About Me  <br><br>🔭 I’m currently working on  <br>Web development projects and portfolio building  <br><br>👯 I’m looking to collaborate on  <br>Open-source and real-world projects  <br><br>🤝 I’m looking for help with  <br>Backend development and system design basics  <br><br>🌱 I’m currently learning  <br>MySQL, DSA, and full-stack development  <br><br>💬 Ask me about  <br>C, C++, Python, HTML, CSS, DBMS  <br><br>⚡ Fun fact  <br>I enjoy working alone with music, books, or coding 🎧  
+##  About Me  <br><br>🔭 I’m currently working on  <br>Web development projects and portfolio building  <br><br>👯 I’m looking to collaborate on  <br>Open-source and real-world projects  <br><br>🤝 I’m looking for help with  <br>Backend development and system design basics  <br><br>🌱 I’m currently learning  <br>MySQL, DSA, and full-stack development  <br><br>💬 Ask me about  <br>C, C++, Python, HTML, CSS, DBMS  <br><br>⚡ Fun fact  <br>I enjoy working alone with music, books, or coding 🎧  
 
 
 ## 🌐 Socials:
